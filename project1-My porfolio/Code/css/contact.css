@@ -1,9 +1,8 @@
 body{
     margin: 0;
     font-family: 'Open Sans', sans-serif;
-    background-image: url("../images/background-h2\ \(1\).png");
+    background-image: url("../images/background.png");
 }
-#home-bg{
     
 }
 
@@ -67,10 +66,7 @@ main{
 
   
 .wrapper{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    margin: 200px 20% 0 20%;
     width: 100%;
     max-width: 900px;
     background: rgba(0,0,0,0.8);
@@ -142,16 +138,6 @@ main{
     cursor: pointer;
     text-transform: uppercase;
 }
-  
-
-
-
-
-
-
-
-
-
 
 
 footer{

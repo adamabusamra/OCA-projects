@@ -66,19 +66,14 @@ nav{
 main{
     margin-top: 75px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
+main div{
+   
+}
+main div img{
+    width: 100%;
+    align-items: center;
+    height: auto;
+}
 
 footer{
     height: 80px;
